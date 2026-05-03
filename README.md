@@ -13,3 +13,9 @@ En test repositorio encontraras dos archivo:
 ## Estudiante
 
 Corina Nimatuj
+
+
+## Ejercicio Resuelto
+
+
+<img width="1500" height="16661" alt="image" src="https://github.com/user-attachments/assets/8c2995e9-33fd-41b2-a8c6-927307c43337" />
