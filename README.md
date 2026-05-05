@@ -7,7 +7,6 @@ Formato de entrega: subir notebook a github y colocar en el GES el enlace de git
 
 ## Archivos
 En test repositorio encontraras dos archivo:
-- `regresion_lineal.ipynb` contiene el ejercicio original descargado del GED
 - `regresion_lineal_resuelto.ipynb` contiene el ejercicio resuelto
 
 ## Estudiante
